@@ -29,4 +29,4 @@ docker run \
     -e DB_USER="root" \
     -e DB_PASS="password" \
     -e DB_HOST="database" \
-    custom-wp:dev
+    dockerpress
